@@ -12,4 +12,6 @@ Dependiences
 4)maven install
 optional gradel instally
 
+Hello world
+
 5)save commands in files
